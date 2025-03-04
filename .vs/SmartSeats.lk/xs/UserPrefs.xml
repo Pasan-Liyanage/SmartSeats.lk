@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SmartSeats.lk PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartSeats.lk/Route.cs">
+    <Files>
+      <File FileName="SmartSeats.lk/Junction.cs" Line="7" Column="32" IsPinned="True" />
+      <File FileName="SmartSeats.lk/Route.cs" Line="174" Column="10" IsPinned="True" />
+      <File FileName="SmartSeats.lk/Bus.cs" Line="28" Column="23" IsPinned="True" />
+      <File FileName="SmartSeats.lk/Seat.cs" Line="12" Column="26" IsPinned="True" />
+      <File FileName="SmartSeats.lk/UserRoute.cs" Line="11" Column="2" IsPinned="True" />
+      <File FileName="SmartSeats.lk/BusPool.cs" Line="11" Column="14" IsPinned="True" />
+      <File FileName="SmartSeats.lk/Main.cs" Line="143" Column="1" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartSeats.lk" expanded="True">
+            <Node name="SmartSeats.lk" expanded="True">
+              <Node name="Route.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

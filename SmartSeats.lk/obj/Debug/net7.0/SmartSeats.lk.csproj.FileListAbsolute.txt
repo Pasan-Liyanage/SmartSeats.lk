@@ -1,0 +1,15 @@
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/bin/Debug/net7.0/SmartSeats.lk
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/bin/Debug/net7.0/SmartSeats.lk.deps.json
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/bin/Debug/net7.0/SmartSeats.lk.runtimeconfig.json
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/bin/Debug/net7.0/SmartSeats.lk.dll
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/bin/Debug/net7.0/SmartSeats.lk.pdb
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.csproj.AssemblyReference.cache
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.AssemblyInfoInputs.cache
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.AssemblyInfo.cs
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.csproj.CoreCompileInputs.cache
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.dll
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/refint/SmartSeats.lk.dll
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.pdb
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/SmartSeats.lk.genruntimeconfig.cache
+/Users/pasanliyanage/Documents/Projects/SmartSeats.lk/SmartSeats.lk/obj/Debug/net7.0/ref/SmartSeats.lk.dll

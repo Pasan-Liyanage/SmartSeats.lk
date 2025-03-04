@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSeats.lk", "SmartSeats.lk\SmartSeats.lk.csproj", "{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3E025D-552C-4BB0-9F77-F29B2C30FAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425F24DD-7BC8-4BEE-B6EC-FCD044F1CA43}
+	EndGlobalSection
+EndGlobal
